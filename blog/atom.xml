@@ -11,7 +11,7 @@ layout: feed
 	<id>http://kaikaizhao.github.io/blog</id>
 	<author>
 		<name>Kaikai Zhao</name>
-		<email>kaikaizhao@iu.edu</email>
+		<email>zhaokai@iu.edu</email>
 	</author>
 
 	{% for post in site.posts %}
